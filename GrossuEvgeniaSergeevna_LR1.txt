@@ -131,7 +131,7 @@
 Добавим их на Github.
 Используя, следующую команду склонируем репозиторий:
 
-	$ git clone "git@github.com:GrossuEvgenia/GrossuEvgenia_LR1.git"
+	$ git clone "<...>" (где <...> это адрес репозитория на GitHub)
 
 
  	 
